@@ -1,3 +1,3 @@
 class InvalidBoardError(Exception):
-    """Raised when board format is invalid."""
+    """Raised when board format and values are invalid."""
 
